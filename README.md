@@ -1,0 +1,2 @@
+# firemoz
+ firefox css style
